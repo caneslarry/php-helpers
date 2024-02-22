@@ -1,0 +1,19 @@
+{
+    "name": "caneslarry/php-helpers",
+    "description": "Useful functions for PHP development.",
+    "type": "library",
+    "license": "GNU",
+    "autoload": {
+        "psr-4": {
+            "Caneslarry\\PhpHelpers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Larry Hussey",
+            "email": "caneslarry@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
