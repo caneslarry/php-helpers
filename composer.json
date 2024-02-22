@@ -2,7 +2,7 @@
     "name": "caneslarry/php-helpers",
     "description": "Useful functions for PHP development.",
     "type": "library",
-    "license": "GNU",
+    "license": "GFDL-1.3-or-later",
     "autoload": {
         "psr-4": {
             "Caneslarry\\PhpHelpers\\": "src/"
