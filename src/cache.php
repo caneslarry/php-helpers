@@ -1,5 +1,7 @@
 <?php
 
+namespace Caneslarry\PhpHelpers;
+
 class Cache
 {
     private array $cache = [];
